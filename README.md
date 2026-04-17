@@ -1,4 +1,4 @@
-# seminar-portfolio#
+# Python Essentials 1#
 
 # Python Essentials 1
 * Organizer: Cisco Networking Academy
